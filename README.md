@@ -12,3 +12,6 @@ When you click on an individual pixel on the display, it cycles through the clas
 2. Go to ```/dist```.
 3. Open ```uri.txt``` and copy the code.
 4. Paste it in your browser's URL bar.
+
+##### Building
+I wouldn't recommend using the built in minifier but rather use other sources yourself to minify it or skip it.
